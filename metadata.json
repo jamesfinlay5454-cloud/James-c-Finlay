@@ -1,0 +1,7 @@
+{
+  "name": "HackerOne Program Explorer & Hunter Suite",
+  "description": "Comprehensive HackerOne bug bounty directory with 120+ active programs, advanced filtering, scope inspection, and AI-powered attack surface strategist with high thinking mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
